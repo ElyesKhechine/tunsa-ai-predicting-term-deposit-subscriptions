@@ -1,2 +1,4 @@
-# tunsa-ai-predicting-term-deposit-subscriptions
-A repository containing a jupyter notebook for "Predicting Term Deposit Subscriptions" I worked on within subteam 3 of TUNSA's AI team.
+# TUNSA AI: Predicting Term Deposit Subscriptions
+- Attained 88% accuracy in term deposit subscription prediction with Logistic Regression, optimizing campaign targeting & resource allocation.
+- Reduced dataset dimensionality by 71% through rigorous feature selection, improving model efficiency without sacrificing performance.
+- Implemented K-Means clustering, identifying potential customers with a 28% subscription rate, maximizing campaign effectiveness.
