@@ -14,11 +14,11 @@ The project spanned from February 19, 2022, to February 20, 2022. It was underta
 
 ## Technical Details
 
-- **Dimensionality Reduction**: Eliminated 9 irrelevant features, reducing dataset dimensionality by 55%, enhancing model efficiency without compromising performance.
-- **Feature Correlation Analysis**: Leveraged Seaborn's heatmaps to identify and remove correlated features, reducing dimensionality by 36% and minimizing overfitting risk.
-- **Data Transformation**: Utilized LabelEncoder and LabelBinarizer to convert categorical variables into numerical formats, streamlining data representation for compatibility with machine learning models.
-- **Customer Segmentation**: Employed K-means clustering to categorize customers based on characteristics, identifying a segment with a 28% subscription rate, facilitating targeted marketing campaigns.
-- **Subscription Prediction**: Implemented logistic regression to predict term deposit subscriptions, achieving 88.9% training accuracy and 88.06% test accuracy, providing a robust binary classification model for marketing optimization.
+- **Dimensionality Reduction**: Elimination of 9 irrelevant features, reducing dataset dimensionality by 55%, enhancing model efficiency without compromising performance.
+- **Feature Correlation Analysis**: Leveraging of Seaborn's heatmaps to identify and remove correlated features, reducing dimensionality by 36% and minimizing overfitting risk.
+- **Data Transformation**: Utilization of LabelEncoder and LabelBinarizer to convert categorical variables into numerical formats, streamlining data representation for compatibility with machine learning models.
+- **Customer Segmentation**: Employment of K-means clustering to categorize customers based on characteristics, identifying a segment with a 28% subscription rate, which facilitated targeted marketing campaigns.
+- **Subscription Prediction**: Implementation of logistic regression to predict term deposit subscriptions, achieving 88.9% training accuracy and 88.06% test accuracy, providing a robust binary classification model for marketing optimization.
 
 ## Google Colab Notebook
 
