@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This project delves into the realm of predictive analytics with a focus on term deposit subscriptions. Leveraging advanced machine learning techniques including logistic regression and K-means clustering, it aims to provide actionable insights for optimizing marketing strategies by streamlining customer segmentation and subscription prediction, thus enhancing marketing campaign effectiveness.
+This project delves into the realm of predictive analytics with a focus on term deposit subscriptions. Leveraging advanced machine learning techniques including logistic regression and K-means clustering, it aimed to provide actionable insights for optimizing marketing strategies by streamlining customer segmentation and subscription prediction, thus enhancing marketing campaign effectiveness.
 
 ## Project Scope
 
