@@ -6,11 +6,11 @@
 
 ## Introduction
 
-This project, spearheaded by TUNSA AI, delves into the realm of predictive analytics with a focus on term deposit subscriptions. Leveraging advanced machine learning techniques including logistic regression and K-means clustering, the project aims to provide actionable insights for optimizing marketing strategies.
+This project delves into the realm of predictive analytics with a focus on term deposit subscriptions. Leveraging advanced machine learning techniques including logistic regression and K-means clustering, it aims to provide actionable insights for optimizing marketing strategies by streamlining customer segmentation and subscription prediction, thus enhancing marketing campaign effectiveness.
 
 ## Project Scope
 
-The project spanned from February 19, 2022, to February 20, 2022, focusing on data preprocessing, feature engineering, and model development. Led by a dedicated team, the project aimed to streamline customer segmentation and subscription prediction, thus enhancing marketing campaign effectiveness.
+The project spanned from February 19, 2022, to February 20, 2022. It was undertaken by 3-members of the Tunisian Space Association (TUNSA)'s AI team. It involved data preprocessing, feature engineering, and model development phases. 
 
 ## Technical Details
 
@@ -20,9 +20,9 @@ The project spanned from February 19, 2022, to February 20, 2022, focusing on da
 - **Customer Segmentation**: Employed K-means clustering to categorize customers based on characteristics, identifying a segment with a 28% subscription rate, facilitating targeted marketing campaigns.
 - **Subscription Prediction**: Implemented logistic regression to predict term deposit subscriptions, achieving 88.9% training accuracy and 88.06% test accuracy, providing a robust binary classification model for marketing optimization.
 
-## Project Colab Link
+## Google Colab Notebook
 
-For a detailed overview of the project implementation, including code and analysis, please refer to the [Google Colab Link](https://colab.research.google.com/drive/1jNt-taq-dZdPLv2aDJEqkP_XgRiyijk8).
+For a detailed overview of the project implementation, including code and analysis, please refer to the [Google Colab notebook](https://colab.research.google.com/drive/1jNt-taq-dZdPLv2aDJEqkP_XgRiyijk8).
 
 ## License
 
